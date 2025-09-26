@@ -7,10 +7,6 @@
 -- 1 consulta com JOIN
 -- Comentários explicando cada seção
 
--- Seção 0:
-DROP TABLE IF EXISTS produtos;
-DROP TABLE IF EXISTS categoria;
-
 --¹ Seção 1: Criação das tabelas :D
 
 CREATE TABLE categoria (
